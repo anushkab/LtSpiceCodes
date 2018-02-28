@@ -1,0 +1,31 @@
+Circuit: *q3
+
+Direct Newton iteration for .op point succeeded.
+.step r1=1
+.step r1=2
+.step r1=3
+.step r1=4
+.step r1=5
+.step r1=6
+.step r1=7
+.step r1=8
+.step r1=9
+.step r1=10
+
+Date: Wed Sep 27 10:06:31 2017
+Total elapsed time: 0.312 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2101
+traniter = 2098
+tranpoints = 1050
+accept = 1050
+rejected = 0
+matrix size = 4
+fillins = 1
+solver = Normal
+Matrix Compiler1:      15 opcodes  0.1/[0.0]/1.6
+Matrix Compiler2: off  [0.0]/0.1/0.0
+

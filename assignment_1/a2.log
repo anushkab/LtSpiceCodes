@@ -1,0 +1,21 @@
+Circuit: *question 2
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Aug 23 09:36:09 2017
+Total elapsed time: 0.031 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2173
+traniter = 2170
+tranpoints = 1086
+accept = 1086
+rejected = 0
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1: 50 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: 175 bytes object code size  0.1/0.1/[0.1]
+
